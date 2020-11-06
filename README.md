@@ -15,3 +15,6 @@ The player having more number of points wins the game.
 <img src="g2.png" alt="drawing" width="300"/>
 <img src="g4.png" alt="drawing" width="300"/>
 </p>
+
+
+Inspired by:-https://github.com/aqeelanwar/Dots-and-Boxes
